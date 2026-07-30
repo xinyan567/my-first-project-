@@ -1,20 +1,9 @@
 #/*-------------------------------------------------------------------------------
-# Name:         Xinyan Li
-# Student ID:   007573720001
-# Email:        xli29@una.edu
-# Course Information: <CIS 225 01>
+# Name:  Xinyan Li
 # Program Source File Name: <real_estate_agents.py>
-# Programming Assignment: #1
 # Program Description:< A program which allow users to input for the category and 
 #                   the sales amount of the property being sold,and users will receive 
 #                   the output of the amount an agent receives after the sale. >
-# References:
-# Due Date: Mar 10 by 11.59pm
-#   In keeping with the honor code policies of the University of University of North Alabama, the
-# School of Business, and the Department of Computer Science, I affirm that I have neither
-# given nor received on this programming assignment. This assignment
-# represents my individual, original effort.
-# Xinyan Li ---My Signature is on File
 #*/-------------------------------------------------------------------------------
 
 #print the table
