@@ -1,17 +1,7 @@
 # Name: Li Xinyan
-# StudentID: 00757372
-# Email: xli29@una.edu
-# Course Information: <CIS 225-01>
 # Program Source File Name: <credit_card_debt_forecast.py>
-# Programming Assignment:
 # Program Description: <Write a program in Python to forecast the number of payments required to pay off a credit card debt.>
-# Referencces:
-# Due Date:4/14/2025
-# In keeping with the honor code policies of the University of University of North Alabama, 
-# the School of Business, and the Department of Computer Science, I affirm that I have neither 
-# given nor received on this programming assignment. This assignment
-# represents my individual, original effort.
-# Li Xinyan My Signature is on File.
+
 print('HLinings Credit Card Debt: Forecasting the number of payments left to pay')
 print('--------------------------------------------------------------------------------------------------')
 card_number=int(input('Enter the credit card number: '))
