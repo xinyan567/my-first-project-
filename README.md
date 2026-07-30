@@ -49,3 +49,27 @@ Debt Paid Off?
 Yes ---> Display Number of Payments
 ## Program Output
 
+# Customer Stock Account Management System
+## Project Description
+This project develops a Stock Management System using Object-Oriented Programming (OOP) in Python. The system manages customer stock accounts by allowing customers to purchase, transfer, and sell stocks while validating transactions and maintaining the current stock balance.
+## Research Data Object
+Customer Code, Customer Name, Stock Balance, Purchase Amount, Transfer Amount, Selling Amount
+## Data Structure
+Class, Object, Attributes, Methods
+## Model Used
+Object-Oriented Programming (OOP) Model
+## System flow
+Create Customer Account
+        |
+Input Customer Information
+        |
+Choose Transaction
+        |
+Purchase / Transfer / Sell
+        |
+Validate Input
+        |
+Update Stock Balance
+        |
+Display Current Balance
+## Program Output
