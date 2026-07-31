@@ -53,6 +53,7 @@ Debt Paid Off?
       |
 Yes ---> Display Number of Payments
 ## Program Output
+<img width="719" height="398" alt="image" src="https://github.com/user-attachments/assets/af424434-8d87-4fd9-99c9-0c0a2cd1568a" />
 
 # Customer Stock Account Management System
 ## Project Description
@@ -77,4 +78,18 @@ Validate Input
 Update Stock Balance
         |
 Display Current Balance
+## Program Output
+<img width="657" height="704" alt="image" src="https://github.com/user-attachments/assets/601845af-3f4e-4c16-b2c1-9f35b1234692" />
+
+# HongKong Life Circle
+## Project Description
+
+## Research Data Object
+
+## Data Structure
+
+## Model Used
+
+## System flow
+
 ## Program Output
