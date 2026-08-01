@@ -93,6 +93,10 @@ Four models are applied: coordinate transformation to the local projected system
 ## System flow
 The workflow involves six steps: loading all datasets, unifying coordinate systems, merging population data with boundaries, generating buffers and performing intersection analysis, calculating evaluation metrics, and finally exporting results and visualizations.
 ## Program Output
+### Conclusion:
+The distribution of public service facilities within Hong Kong's 15-minute living circle is highly uneven. Core urban districts are heavily facility-rich but overly dominated by bus stops, with limited healthcare and park resources. In contrast, peripheral areas, especially the outlying islands and parts of the New Territories, suffer from severe service gaps, with some zones entirely lacking essential facilities such as hospitals.
+### Recommendations:
+To address these disparities, three actions are recommended: First, prioritize adding community clinics and transit links in facility-blind areas like the outlying islands. Second, restructure core urban zones by curbing excessive bus stops and reallocating space for more parks and medical facilities. Third, establish a dynamic monitoring system using the "facilities per 1,000 residents" metric to ensure infrastructure growth aligns with population changes in new development areas.
 <img width="1079" height="868" alt="Screenshot 2026-08-01 142152" src="https://github.com/user-attachments/assets/1a1e595b-8319-477c-b976-3cadd0e0e0af" />
 <img width="675" height="501" alt="Screenshot 2026-08-01 142009" src="https://github.com/user-attachments/assets/e65c9e79-b4c0-496f-8c93-1f623a882bbf" />
 <img width="682" height="513" alt="Screenshot 2026-08-01 142035" src="https://github.com/user-attachments/assets/9cbf2c09-96b2-4d8e-8a0c-c65b3916d363" />
