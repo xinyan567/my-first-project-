@@ -81,15 +81,21 @@ Display Current Balance
 ## Program Output
 <img width="657" height="704" alt="image" src="https://github.com/user-attachments/assets/601845af-3f4e-4c16-b2c1-9f35b1234692" />
 
-# HongKong Life Circle
+# GIS-Based Accessibility Evaluation of Public Service Facilities within the 15-Minute Living Circle in Hong Kong
 ## Project Description
-
+This project aims to evaluate the spatial accessibility and distributional equity of public service facilities within the "15-minute living circle" framework across Hong Kong. By integrating geospatial boundary data, demographic statistics, and Point-of-Interest (POI) data, the study quantifies the availability of essential community services—including public transit, parks, and healthcare facilities—within a 1,250-meter walking radius for each administrative district. The ultimate objective is to identify underserved regions and provide data-driven recommendations for urban planning and resource allocation.
 ## Research Data Object
-
+Administrative Boundaries, Demographic Data, Bus Stops, Parks, Hospitals
 ## Data Structure
-
+The spatial data is merged with demographic data using regional name fields as the join key. The final dataset contains region names, population counts, facility counts by category, total facilities, and the facilities-per-1,000-residents metric.
 ## Model Used
-
+Four models are applied: coordinate transformation to the local projected system; spatial buffer analysis to create 1,250-meter walking zones; spatial intersection to count facilities within each zone; and a supply-demand evaluation model to calculate per-capita facility coverage and identify underserved districts.
 ## System flow
-
+The workflow involves six steps: loading all datasets, unifying coordinate systems, merging population data with boundaries, generating buffers and performing intersection analysis, calculating evaluation metrics, and finally exporting results and visualizations.
 ## Program Output
+<img width="1079" height="868" alt="Screenshot 2026-08-01 142152" src="https://github.com/user-attachments/assets/1a1e595b-8319-477c-b976-3cadd0e0e0af" />
+<img width="675" height="501" alt="Screenshot 2026-08-01 142009" src="https://github.com/user-attachments/assets/e65c9e79-b4c0-496f-8c93-1f623a882bbf" />
+<img width="682" height="513" alt="Screenshot 2026-08-01 142035" src="https://github.com/user-attachments/assets/9cbf2c09-96b2-4d8e-8a0c-c65b3916d363" />
+<img width="1527" height="700" alt="Screenshot 2026-08-01 142120" src="https://github.com/user-attachments/assets/34d40bb4-dfeb-40a6-90fe-31aac3f7be17" />
+
+
