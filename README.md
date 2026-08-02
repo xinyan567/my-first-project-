@@ -10,17 +10,17 @@ This project utilizes Python and GIS technologies such as GeoPandas to conduct a
 ## Foundational Python projects
 ### 1)Commission Calculator
 This is an interactive command-line program. Users select a property category and enter the selling price. The program looks up the corresponding commission rate via a dictionary mapping, performs a multiplication operation, and outputs the final agent commission.
-\n Input: Property category, Selling price
-\n Process: Dictionary lookup for commission rate → Selling price × Commission rate
-#### Output: Agent commission amount
+(Input: Property category, Selling price
+|Process: Dictionary lookup for commission rate → Selling price × Commission rate
+|Output: Agent commission amount)
 #### Program Output
 <img width="1148" height="694" alt="image" src="https://github.com/user-attachments/assets/6567c5c3-cc83-4d63-9712-64f86b699eaf" />
 
 ### 2)Debt Payment Forecast
 This is a predictive interactive program. Users input the remaining credit card balance, monthly payment amount, and interest rate. The program simulates the repayment process month by month using a While loop (deducting the monthly payment and calculating accrued interest) until the balance reaches zero, and finally outputs the total number of months required to clear the debt.
-·Input: Credit card balance, Monthly payment, Interest rate
-·Process: Loop simulation → Monthly deduction and interest calculation → Check if balance reaches zero
-·Output: Total number of months to pay off the debt
+(Input: Credit card balance, Monthly payment, Interest rate
+|Process: Loop simulation → Monthly deduction and interest calculation → Check if balance reaches zero
+|Output: Total number of months to pay off the debt)
 #### Program Output
 <img width="719" height="398" alt="image" src="https://github.com/user-attachments/assets/af424434-8d87-4fd9-99c9-0c0a2cd1568a" />
 
