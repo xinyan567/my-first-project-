@@ -23,11 +23,8 @@ Multiplication Formula
       |
 Output Result
 #### Program Output
-<img width="1149" height="783" alt="Screenshot 2026-07-31 111239" src="https://github.com/user-attachments/assets/1f382d96-9b0d-4d79-9f57-dbb4724b401a" />
 <img width="1148" height="694" alt="image" src="https://github.com/user-attachments/assets/6567c5c3-cc83-4d63-9712-64f86b699eaf" />
 <img width="1139" height="679" alt="Screenshot 2026-07-31 111352" src="https://github.com/user-attachments/assets/ba92a478-a13f-485b-9aba-8c74b19fe8c5" />
-
-
 
 ### 2)Debt Payment Forecast
 #### Project Description
