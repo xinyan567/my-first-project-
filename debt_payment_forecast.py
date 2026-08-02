@@ -1,5 +1,4 @@
 # Name: Li Xinyan
-# Program Source File Name: <credit_card_debt_forecast.py>
 # Program Description: <Write a program in Python to forecast the number of payments required to pay off a credit card debt.>
 
 print('HLinings Credit Card Debt: Forecasting the number of payments left to pay')
