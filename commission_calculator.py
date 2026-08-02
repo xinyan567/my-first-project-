@@ -1,6 +1,5 @@
 #/*-------------------------------------------------------------------------------
 # Name:  Xinyan Li
-# Program Source File Name: <real_estate_agents.py>
 # Program Description:< A program which allow users to input for the category and 
 #                   the sales amount of the property being sold,and users will receive 
 #                   the output of the amount an agent receives after the sale. >
