@@ -10,8 +10,8 @@ This project utilizes Python and GIS technologies such as GeoPandas to conduct a
 ## Foundational Python projects
 ### 1)Commission Calculator
 This is an interactive command-line program. Users select a property category and enter the selling price. The program looks up the corresponding commission rate via a dictionary mapping, performs a multiplication operation, and outputs the final agent commission.
-#### Input: Property category, Selling price
-#### Process: Dictionary lookup for commission rate → Selling price × Commission rate
+\n Input: Property category, Selling price
+\n Process: Dictionary lookup for commission rate → Selling price × Commission rate
 #### Output: Agent commission amount
 #### Program Output
 <img width="1148" height="694" alt="image" src="https://github.com/user-attachments/assets/6567c5c3-cc83-4d63-9712-64f86b699eaf" />
