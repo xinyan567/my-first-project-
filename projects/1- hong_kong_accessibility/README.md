@@ -1,3 +1,20 @@
+Project: 15-Minute Living Circle Analysis - Sha Tin District, Hong Kong
+This project analyzes the accessibility of public transport (bus stops), 
+parks, and medical facilities within a 15-minute walking distance (1,250 meters) 
+for residents in Sha Tin District, Hong Kong.
+
+The analysis uses grid-based sampling to evaluate:
+1. Facility coverage distribution across the district
+2. Identification of underserved areas (facilities < 2)
+3. Assessment of 15-minute living circle standards (public transport + park + hospital)
+
+Data Sources:
+- Boundary data: ./data/boundary.geojson
+- Population data: ./data/boundary.CSV  
+- Bus stops: ./data/bus.geojson
+- Parks: ./data/parks.geojson
+- Hospitals: ./data/hospitals.geojson
+
 基础统计:
   总分析网格点数: 274
   15分钟生活圈达标点数: 35 (12.8%)
