@@ -1,1 +1,9 @@
+# Sha Tin 15-Minute Living Circle Analysis
+# Python package dependencies
 
+pandas          # Data manipulation
+geopandas       # Geospatial data processing
+numpy           # Numerical computing
+matplotlib      # Visualization
+shapely         # Geometric operations
+pyproj          # Coordinate system transformations
