@@ -1,4 +1,4 @@
-# Hong Kong Building Density and Grid-Based Temperature Scenario Simulation
+## Hong Kong Building Density and Grid-Based Temperature Scenario Simulation
 ## Project Overview
 This project simulates the relationship between building density and urban heat island (UHI) effects in Hong Kong using a grid-based analytical approach. It processes building footprint data, calculates building coverage ratios across a regular grid, and performs scenario simulations to model temperature variations based on building density.
 
