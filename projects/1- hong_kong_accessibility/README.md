@@ -56,31 +56,25 @@ Proportion of underserved areas: 23.7%
 Areas with no facilities at all: 59
 
 ## Results Summary
-### 主要发现
+### Key Findings
+The 15-minute living circle analysis of Sha Tin District reveals:
+| Indicator | Result |
+|-----------|--------|
+| Compliance Rate | 12.8% (35/274 grid points) |
+| Average Facilities per Point | 20.95 |
+| Underserved Areas | 65 grid points (23.7%) |
+| Areas with No Facilities | 59 grid points (21.5%) |
 
-沙田区15分钟生活圈分析显示：
+### Key Conclusions
+1. **Good public transport coverage**: The bus stop network is well-developed, with 59.9% of areas reaching the "very rich" facility level.
+2. **Severe shortage of parks and medical facilities**: On average, each grid point has only 0.63 parks and 0.30 hospitals, far below the living circle standard.
+3. **Significant facility blind spots**: 21.5% of the area has no facilities at all, mainly concentrated in the southern and eastern fringe areas of Sha Tin District.
 
-| 指标 | 结果 |
-|------|------|
-| 达标率 | 12.8%（35/274个网格点） |
-| 平均设施数 | 20.95个/网格点 |
-| 服务不足区域 | 65个网格点（23.7%） |
-| 完全无设施区域 | 59个网格点（21.5%） |
+### Planning Implications
+- Prioritize the development of community comprehensive facilities in the **59 facility-blind grid points**
+- **Increase green space** in areas with low park coverage
+- **Add primary medical facilities** in underserved areas
+- Future planning should focus on **balanced allocation of facility types**, rather than simply increasing the quantity of a single facility type
 
-### 关键结论
-
-1. **公共交通覆盖良好**：巴士站网络密集，59.9%的区域设施丰富度达到"非常丰富"级别
-
-2. **公园和医疗设施严重不足**：平均每个网格点仅有0.63个公园和0.30个医院，远低于生活圈标准
-
-3. **存在明显设施盲区**：21.5%的区域完全没有设施，主要集中在沙田区南部和东部边缘地带
-
-### 规划启示
-
-- 优先在**59个无设施网格点**建设社区综合设施
-- 在公园覆盖率低的区域**增加绿地空间**
-- 在服务不足区域**增设基层医疗设施**
-- 未来规划应注重**设施类型的均衡配置**，而非仅增加单一类型设施
-
-本研究为沙田区的城市设施规划提供了数据支撑和决策参考。
+This study provides data support and decision-making reference for urban facility planning in Sha Tin District.
 
