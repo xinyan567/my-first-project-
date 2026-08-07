@@ -40,6 +40,11 @@ This is a predictive interactive program. Users input the remaining credit card 
 #### Program Output
 <img width="719" height="398" alt="image" src="https://github.com/user-attachments/assets/af424434-8d87-4fd9-99c9-0c0a2cd1568a" />
 
+### 3)Stock Management System
+
+### Program Output
+<img width="844" height="216" alt="image" src="https://github.com/user-attachments/assets/aa28e0b0-5eb5-498d-9a6f-bd0f21d81950" />
+
 ## Tools used
 Python, Pandas, GeoPandas, Shapely, Matplotlib, NumPy, Fiona.
 
