@@ -18,5 +18,19 @@ This project simulates the relationship between building density and urban heat 
 <img width="1722" height="1228" alt="Screenshot 2026-08-06 012540" src="https://github.com/user-attachments/assets/d975e52d-18ac-4850-85aa-6e0727a1d363" />
 <img width="1768" height="1171" alt="Screenshot 2026-08-06 012559" src="https://github.com/user-attachments/assets/b761977d-7737-4446-964c-48152b25b299" />
 
+## Results Summary
+This scenario simulation reveals a positive correlation between building density and simulated temperature across Hong Kong. The analysis demonstrates that areas with higher building coverage ratios tend to exhibit elevated temperatures, consistent with urban heat island theory.
+
+## Key Findings
+Building coverage ratios range from 0 to 0.0225 (2.25%) across the study area, with 429 grid cells containing buildings. The simulation indicates that high-density areas show higher temperatures compared to low-density areas, with a mean temperature difference of approximately 1.5°C under the current scenario settings.
+
+## Visualization Outputs
+Three analytical figures were generated:
+Figure 1 – Scatter plot showing a positive trend between building coverage ratio and simulated temperature (R² ≈ 0.86), indicating that increased building density is associated with higher temperatures.
+Figure 2 – Box plot comparing temperature distributions between high-density and low-density grid cells, demonstrating a clear thermal distinction between the two groups.
+Figure 3 – Spatial distribution map of simulated temperatures across the 1km × 1km grid, highlighting areas with elevated temperatures concentrated in regions with higher building densities.
+
+## Important Note
+This is a scenario simulation based on the assumption: Temperature = Base Temperature + (Coverage Ratio × UHI Coefficient) + Noise. The results represent modeled patterns rather than actual measured temperatures. For real-world urban heat island analysis, observed temperature data from meteorological stations and additional environmental variables (e.g., vegetation, land use) would be required.
 
 
