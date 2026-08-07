@@ -8,9 +8,9 @@ This project simulates the relationship between building density and urban heat 
 - Building Coverage Calculation: Computes building coverage ratios for each grid cell  
 - Temperature Simulation: Simulates temperature patterns based on building density with configurable UHI coefficients  
 - Visualization: Generates three key analytical figures:  
--  Scatter plot showing the relationship between coverage ratio and temperature  
--  Box plot comparing high-density vs. low-density areas  
--  Spatial distribution map of simulated temperatures  
+  Scatter plot showing the relationship between coverage ratio and temperature  
+  Box plot comparing high-density vs. low-density areas  
+  Spatial distribution map of simulated temperatures  
 
 
 ## outputs
