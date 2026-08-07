@@ -5,7 +5,7 @@ This program predicts the number of payment periods required to pay off a credit
 The program uses a while loop to simulate the monthly payment process:
 Calculate new balance each month:    
 -New Balance = Current Balance × (1 + Monthly Interest Rate) - Monthly Payment  
--Monthly Interest Rate = Annual Interest Rate / 12 (Note: This program uses the annual rate directly without dividing by 12)
+-Monthly Interest Rate = Annual Interest Rate / 12 (Note: This program uses the annual rate directly without dividing by 12)  
 If the new balance is less than 0, set it to 0 (preventing negative values)  
 Increment counter by 1   
 Continue loop while balance is greater than 0  
