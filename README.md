@@ -14,7 +14,7 @@ This project utilizes Python and GIS technologies such as GeoPandas to conduct a
 <img width="1515" height="970" alt="Screenshot 2026-08-02 135238" src="https://github.com/user-attachments/assets/df29e302-c20e-4ab3-83bb-9ba613c8cb75" />
 
 ## 2) Hong Kong Urban Heat Scenario Simulation
-Tools: Python, GeoPandas, Fiona, Shapely, Pandas, NumPy, Matplotlib.  
+Tools: Python, GeoPandas, Pandas, Fiona, Shapely, NumPy, Matplotlib.  
 This project calculates building coverage ratios across 1km grids in Hong Kong and simulates surface temperature distributions using a urban heat island coefficient. The positive correlation between building density and temperature is visualized through scatter plots, boxplots, and spatial distribution maps.
 ### Program Outputs
 
@@ -37,7 +37,7 @@ This is a predictive interactive program. Users input the remaining credit card 
 <img width="719" height="398" alt="image" src="https://github.com/user-attachments/assets/af424434-8d87-4fd9-99c9-0c0a2cd1568a" />
 
 ## Tools used
-Python、Pandas、GeoPandas、Shapely、Matplotlib、NumPy
+Python, Pandas, GeoPandas, Shapely, Matplotlib, NumPy, Fiona.
 
 
 
