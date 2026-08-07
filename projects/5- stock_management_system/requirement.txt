@@ -1,2 +1,5 @@
 # Dependencies
 This project requires no third-party libraries and runs using only Python's built-in functionality.
+# Tech Stack
+Built with Python 3.x using only the standard library (zero external dependencies) and following Object-Oriented Programming (OOP) principles for clean, maintainable code.
+
