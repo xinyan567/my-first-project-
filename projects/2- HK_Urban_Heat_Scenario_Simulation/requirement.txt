@@ -1,1 +1,17 @@
+# Hong Kong Building Density & Grid Temperature Scenario Simulation
+# Project: HK_Building_Density_Temperature_Simulation
 
+# Data Processing
+numpy          # Numerical computing, array operations
+pandas         # Data table processing
+
+# Geospatial Processing
+geopandas      # Geospatial data handling
+shapely        # Geometric object operations
+fiona          # SHP file reading
+
+# Visualization
+matplotlib     # Chart plotting
+
+# Scientific Computing
+scipy          # Interpolation and scientific computation
