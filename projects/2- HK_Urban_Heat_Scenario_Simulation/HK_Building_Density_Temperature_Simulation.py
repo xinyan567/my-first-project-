@@ -1,5 +1,5 @@
 # ======================================================
-# 香港建筑密度与网格温度情景模拟
+# Hong Kong Building Density and Grid-Based Temperature Scenario Simulation
 # ======================================================
 
 import os
