@@ -18,6 +18,8 @@ Tools: Python, GeoPandas, Pandas, Fiona, Shapely, NumPy, Matplotlib.
 This project calculates building coverage ratios across 1km grids in Hong Kong and simulates surface temperature distributions using a urban heat island coefficient. The positive correlation between building density and temperature is visualized through scatter plots, boxplots, and spatial distribution maps.
 ### Program Outputs
 <img width="1704" height="1018" alt="image" src="https://github.com/user-attachments/assets/2b81261f-0f19-4e0f-8e00-5f61cb24406e" />
+<img width="1676" height="1222" alt="image" src="https://github.com/user-attachments/assets/ec3d45e8-a8e4-4633-9d24-e5b87d17a03f" />
+
 
 
 ## Foundational Python projects
