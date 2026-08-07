@@ -25,7 +25,7 @@ This scenario simulation reveals a positive correlation between building density
 Building coverage ratios range from 0 to 0.0225 (2.25%) across the study area, with 429 grid cells containing buildings. The simulation indicates that high-density areas show higher temperatures compared to low-density areas, with a mean temperature difference of approximately 1.5°C under the current scenario settings.
 
 ## Visualization Outputs
-Three analytical figures were generated:
+Three analytical figures were generated:  
 Figure 1 – Scatter plot showing a positive trend between building coverage ratio and simulated temperature (R² ≈ 0.86), indicating that increased building density is associated with higher temperatures.  
 Figure 2 – Box plot comparing temperature distributions between high-density and low-density grid cells, demonstrating a clear thermal distinction between the two groups.  
 Figure 3 – Spatial distribution map of simulated temperatures across the 1km × 1km grid, highlighting areas with elevated temperatures concentrated in regions with higher building densities.  
