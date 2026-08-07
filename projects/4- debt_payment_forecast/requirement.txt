@@ -11,6 +11,6 @@
 
 # Note: This program calculates the number of monthly payments
 # required to pay off a credit card balance given:
-# - Current balance
-# - Monthly payment amount
-# - Monthly interest rate
+ - Current balance
+ - Monthly payment amount
+ - Monthly interest rate
