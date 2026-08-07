@@ -1,1 +1,16 @@
+# Credit Card Debt Payment Forecasting
 
+# This project has no external package dependencies.
+# All code uses Python built-in modules only.
+
+# Minimum Python version: 3.0 (for standard input/output functions)
+# Tested on Python 3.x versions
+
+# To run this program, simply execute:
+# python credit_card_forecast.py
+
+# Note: This program calculates the number of monthly payments
+# required to pay off a credit card balance given:
+# - Current balance
+# - Monthly payment amount
+# - Monthly interest rate
