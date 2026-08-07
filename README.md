@@ -4,15 +4,20 @@ This repository presents selected Python projects in spatial analysis,
 urban accessibility and data processing.
 
 ## Featured Project
-Hong Kong Facility Accessibility Analysis
-
+## 1) Hong Kong Facility Accessibility Analysis
 Tools: Python, GeoPandas, Pandas, Shapely and Matplotlib.
 The project analyses the spatial relationship between residential areas
 and public transport, parks and healthcare facilities.
 
 This project utilizes Python and GIS technologies such as GeoPandas to conduct a 15-minute living circle accessibility assessment in Sha Tin District, Hong Kong. Using a 500-meter grid as the basic analytical unit, the study applies 1250-meter walking buffer analysis to precisely calculate the coverage of bus stops, parks, and medical facilities within each grid cell, while identifying underserved areas. The results are presented through 2x3 multi-dimensional visualizations and exported as GeoJSON/CSV data files, offering an intuitive overview of facility distribution and service gaps to provide a data-driven foundation for optimizing community public resources.
-### Program Output
+### Program Outputs
 <img width="1515" height="970" alt="Screenshot 2026-08-02 135238" src="https://github.com/user-attachments/assets/df29e302-c20e-4ab3-83bb-9ba613c8cb75" />
+
+## 2) Hong Kong Urban Heat Scenario Simulation
+Tools: 
+
+
+### Program Outputs
 
 ## Foundational Python projects
 ### 1)Commission Calculator
