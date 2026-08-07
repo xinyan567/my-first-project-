@@ -55,8 +55,7 @@ Number of underserved grid points: 65
 Proportion of underserved areas: 23.7%
 Areas with no facilities at all: 59
 
-## 📊 结果总结
-
+## Results Summary
 ### 主要发现
 
 沙田区15分钟生活圈分析显示：
