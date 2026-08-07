@@ -19,6 +19,7 @@ This project calculates building coverage ratios across 1km grids in Hong Kong a
 ### Program Outputs
 <img width="1704" height="1018" alt="image" src="https://github.com/user-attachments/assets/2b81261f-0f19-4e0f-8e00-5f61cb24406e" />
 <img width="1676" height="1222" alt="image" src="https://github.com/user-attachments/assets/ec3d45e8-a8e4-4633-9d24-e5b87d17a03f" />
+<img width="1670" height="1126" alt="image" src="https://github.com/user-attachments/assets/5e5a5f84-77d1-4b0e-b8f1-42dabbb28d12" />
 
 
 
