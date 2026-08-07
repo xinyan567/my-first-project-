@@ -29,7 +29,7 @@ This is an interactive command-line program. Users select a property category an
 (Input: Property category, Selling price
 |Process: Dictionary lookup for commission rate → Selling price × Commission rate
 |Output: Agent commission amount)
-#### Program Output
+### Program Output
 <img width="1148" height="694" alt="image" src="https://github.com/user-attachments/assets/6567c5c3-cc83-4d63-9712-64f86b699eaf" />
 
 ### 2)Debt Payment Forecast
@@ -37,13 +37,13 @@ This is a predictive interactive program. Users input the remaining credit card 
 (Input: Credit card balance, Monthly payment, Interest rate
 |Process: Loop simulation → Monthly deduction and interest calculation → Check if balance reaches zero
 |Output: Total number of months to pay off the debt)
-#### Program Output
+### Program Output
 <img width="719" height="398" alt="image" src="https://github.com/user-attachments/assets/af424434-8d87-4fd9-99c9-0c0a2cd1568a" />
 
 ### 3)Stock Management System
 Stock Management System is an interactive command-line stock transaction management system. Users create customer accounts and perform stock purchase, transfer, and sale operations. The program is designed using Object-Oriented Programming (OOP) principles, encapsulating customer information and transaction logic within the Stocks class. All transaction operations include input validation and error handling mechanisms to ensure stock balance accuracy and data integrity.   
 (Input: Customer code, Customer name, Initial stock balance, Transaction amount | Process: Class instantiation → Method invocation → Amount validation → Balance update | Output: Transaction status feedback, Updated stock balance)
-#### Program Output
+### Program Output
 <img width="844" height="216" alt="image" src="https://github.com/user-attachments/assets/aa28e0b0-5eb5-498d-9a6f-bd0f21d81950" />
 
 ## Tools used
