@@ -1,9 +1,7 @@
 # Commission calculator
 # This project has no external package dependencies.
 # All code uses Python built-in modules only.
-
 # Minimum Python version: 3.6 (required for f-string formatting)
-# Tested on Python 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
-
+ Tested on Python 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
 # To run this program, simply execute:
-# python real_estate_commission.py
+ python real_estate_commission.py
