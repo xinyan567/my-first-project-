@@ -1,2 +1,2 @@
-Dependencies
+# Dependencies
 This project requires no third-party libraries and runs using only Python's built-in functionality.
