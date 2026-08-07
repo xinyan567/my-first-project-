@@ -1,5 +1,5 @@
-# Hong Kong Building Density & Grid Temperature Scenario Simulation
-# Project: HK_Building_Density_Temperature_Simulation
+# HK_Building_Density_Temperature_Simulation
+# Python package dependencies
 
 numpy          # Numerical computing, array operations
 pandas         # Data table processing
